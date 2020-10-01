@@ -15,11 +15,11 @@ import model.service.IPlanetService;
 public class PlanetList {
 	
 	@Autowired
-	private IPlanetService taskService;
+	private IPlanetService planetService;
 
 	@GetMapping(value="planets")
-	public List<Planet> getTasks() {
-		return taskService.getPlanet();
+	public List<Planet> getPlanets() {
+		return planetService.getPlanet();
 	}
 	
 	

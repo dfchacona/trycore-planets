@@ -11,7 +11,7 @@ public class PlanetService implements IPlanetService{
 	private IPlanetDao planetDao;
 	
 	/**
-	 * Method to get all the task
+	 * Method to get all the planets
 	 * @return
 	 */
 	public List<Planet> getPlanet() {
