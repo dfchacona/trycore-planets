@@ -1,10 +1,10 @@
-package com.trycore.planets;
+package com.example.planets;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PlanetsApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
