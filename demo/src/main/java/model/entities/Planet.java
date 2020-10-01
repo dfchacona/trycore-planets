@@ -9,7 +9,7 @@ import javax.persistence.*;
 public class Planet implements Serializable{
 	
 private static final long serialVersionUID = 1L;
-	
+	private Integer id;
 	private String planet_name;
 	private Integer diameter;
 	private Double mean_temp;
