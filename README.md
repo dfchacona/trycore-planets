@@ -2,7 +2,7 @@
 
 + Data (U2)
 + Backend (Spring boot)
-+ Fronend (Angular)
++ Frontend (Angular)
 
 ## Datos
 
